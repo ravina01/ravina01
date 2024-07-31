@@ -1,4 +1,4 @@
-## 🙏 Namastey!, I'm Ravina (Reva) 👋
+## 🙏 Namastey! I'm Ravina (Reva) 👋
 
 <!--
 **ravina01/ravina01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@
 - 🏙️ About me: Self-taught CV/ML Engineer | City dweller who loves to travel and enjoy local cuisines | Biker 🚴 | Loves kayaking: 🛶
 - ⚡ Fun fact: I jumped off the sky on my Birthday! (This Girl is Adventurous)
 - ✍️ Technical blog writer: [Medium](https://medium.com/@ravina.lad01)
-- 📍 Location: Boston, USA
+- 📍 Location: Boston, USA 🇺🇸 | Origin: India 🇮🇳 
 
 ## Skills
 - **Programming Languages**: C++ (C++14/17), Python, CUDA, MATLAB, Multithreading, GPU Kernels.
