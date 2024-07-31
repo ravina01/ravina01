@@ -15,7 +15,7 @@
 - 📫 How to reach me: [ravinalad96@gmail.com](mailto:ravinalad96@gmail.com)
 - 😄 Pronouns: She/her
 - 🏙️ About me: Self-taught CV/ML Engineer | City dweller who loves to travel and enjoy local cuisines | Biker 🚴 | Loves kayaking: 🛶
-- ⚡ Fun fact: I jumped off the sky on my Birthday! (This Girl is Adventurous)
+- ⚡ Fun fact: I jumped off the sky on my Birthday! (This Girl is Adventurous) [Watch it here](https://youtu.be/0fE-8fkhm9Y?si=0sktlQhNJBjcdOhK)
 - ✍️ Technical blog writer: [Medium](https://medium.com/@ravina.lad01)
 - 📍 Location: Boston, USA 🇺🇸 | Origin: India 🇮🇳 
 
