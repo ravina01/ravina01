@@ -1,27 +1,29 @@
-## Hi there 👋
+## Hi there, I'm Ravina(Reva) 👋
 
 <!--
 **ravina01/ravina01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 👧 I'm Roboticist with passion for Vision based applications. 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+![Ai_girl (1)](https://github.com/user-attachments/assets/1f29f4a5-2c80-46b6-a882-981c29df2bb0)
+
+- 👧 I'm Roboticist (M.Sc. in Robotics(Computer Science)) with passion for Vision based applications. 
+- 🔭 I’m currently working on Building Food Vision App, Object Detection and Segmentation
+- 🌱 I’m currently learning more about 
+- 👯 I’m looking to collaborate on anything related to CV/DL.
+- 🤔 I’m looking for help with GenAI in the field of computer vision.
+- 💬 Ask me about Classical or Modern Computer Vision Techniques.
 - 📫 How to reach me: How to reach me: [ravinalad96@gmail.com](mailto:ravinalad96@gmail.com)
 - 😄 Pronouns: She/her
 - About me: Self Taught CV/ML Engineer |  City dweller who loves to travel and enjoy local cuisines | Biker 🚴
- | Loves Kayaking: 🛶
+ | Loves Kayaking: 🛶 
 - ⚡ Fun fact: 
 
 
 ## Skills
-- Programming Languages: C++(C++14/17), Python, CUDA, MATLAB
+- Programming Languages: C++(C++14/17), Python, CUDA, MATLAB, Multithreading, GPU Kernels.
 - Frameworks: PyTorch, TensorFlow, OpenCV, NumPy, Matplotlib, TensorRT
 - Tools: Git, Docker, ROS, Linux, JIRA
 - Specialized Techniques: 
-1. Classical Computer Vision - 
+1. Classical Computer Vision - Image Processing, Denoising, Camera Calibration, Feature Extractors(SIFT, SURf, ORB), Stereo Vision, Epipolar Geometry, Optical Flow, Depth Maps from Stereo, Depth Maps from Monocular.
 2. Modern Computer Vision (Deep Learning) - Object Classification, Detection and Segmentation. 
 
 ## Projects
