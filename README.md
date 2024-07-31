@@ -6,8 +6,6 @@
 
 ![Ai_girl (1)](https://github.com/user-attachments/assets/1f29f4a5-2c80-46b6-a882-981c29df2bb0)
 
-
-![rezised_me](https://github.com/user-attachments/assets/d4fa4751-da2c-44dd-9f7b-7dac0e78ac87)
 - 👧 I'm a Roboticist (M.Sc. in Robotics (Computer Science)) with a passion for vision-based applications.
 - 🔭 I’m currently working on building a Food Vision App, Object Detection, and Segmentation.
 - 🌱 I’m currently learning more about deep learning concepts in detail.
