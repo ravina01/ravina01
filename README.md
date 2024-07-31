@@ -22,7 +22,7 @@
 - **Frameworks**: PyTorch, TensorFlow, OpenCV, NumPy, Matplotlib, TensorRT.
 - **Tools**: Git, Docker, ROS, Linux, JIRA.
 - **Specialized Techniques**:
-  1. **Classical Computer Vision**: Image Processing, Denoising, Camera Calibration, Feature Extractors (SIFT, SURF, ORB), Stereo Vision, Epipolar Geometry, Optical Flow, Depth Maps from Stereo, Depth Maps from Monocular.
+  1. **Classical Computer Vision**: Image Processing, Denoising, Camera Calibration, Pose Estimation, Feature Extractors and Matching (SIFT, SURF, ORB, Harris Corner Detector), Stereo Vision, Epipolar Geometry, Optical Flow, Depth Maps from Stereo, Depth Maps from Monocular.
   2. **Modern Computer Vision (Deep Learning)**: Object Classification, Detection, and Segmentation.
 
 ## Projects
