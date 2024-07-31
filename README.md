@@ -8,16 +8,14 @@
 
 - 👧 I'm a Roboticist (M.Sc. in Robotics (Computer Science)) with a passion for vision-based applications.
 - 🔭 I’m currently working on building a Food Vision App, Object Detection, and Segmentation.
-- 🌱 I’m currently learning more about deep learning concepts in detail.
-- 👯 I’m looking to collaborate on anything related to CV/DL.
-- 🤔 I’m looking for help with GenAI in the field of computer vision.
+- 🌱 I’m currently learning more about Deep Learning concepts in detail, GenAI
 - 💬 Ask me about classical or modern computer vision techniques.
-- 📫 How to reach me: [ravinalad96@gmail.com](mailto:ravinalad96@gmail.com)
-- 😄 Pronouns: She/her
-- 🏙️ About me: Self-taught CV/ML Engineer | City dweller who loves to travel and enjoy local cuisines | Biker 🚴 | Loves kayaking: 🛶
+- 🏙️ About me: Self-taught CV/ML Engineer | City dweller who loves to travel and enjoy local cuisines | Biker 🚴 | Loves kayaking: 🛶 | | Loves cooking 👩‍🍳
 - ⚡ Fun fact: I jumped off the sky on my Birthday! (This Girl is Adventurous) [Watch it here](https://youtu.be/0fE-8fkhm9Y?si=0sktlQhNJBjcdOhK)
 - ✍️ Technical blog writer: [Medium](https://medium.com/@ravina.lad01)
-- 📍 Location: Boston, USA 🇺🇸 | Origin: India 🇮🇳 
+- 📫 How to reach me: [ravinalad96@gmail.com](mailto:ravinalad96@gmail.com)
+- 📍 Location: Boston, USA 🇺🇸 | Origin: India 🇮🇳
+
 
 ## Skills
 - **Programming Languages**: C++ (C++14/17), Python, CUDA, MATLAB, Multithreading, GPU Kernels.
