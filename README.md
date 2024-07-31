@@ -39,5 +39,5 @@
 - [C++: Basic to Advanced, LEETCODE](https://github.com/ravina01/CPP)
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ravinalad/)
+- [LinkedIn](https://www.linkedin.com/in/ravina-lad01/)
 - [GitHub](https://github.com/ravina01)
