@@ -15,7 +15,9 @@
 - 📫 How to reach me: [ravinalad96@gmail.com](mailto:ravinalad96@gmail.com)
 - 😄 Pronouns: She/her
 - 🏙️ About me: Self-taught CV/ML Engineer | City dweller who loves to travel and enjoy local cuisines | Biker 🚴 | Loves kayaking: 🛶
-- ⚡ Fun fact: Once got so absorbed in debugging my AI model that I accidentally asked my smart assistant to 'optimize my snack choices' instead of my code. Now my pantry is organized by snack efficiency!
+- ⚡ Fun fact: I jumped off the sky on my Birthday! (This Girl is Adventurous)
+- ✍️ Technical blog writer: [Medium](https://medium.com/@ravina.lad01)
+- 📍 Location: Boston, USA
 
 ## Skills
 - **Programming Languages**: C++ (C++14/17), Python, CUDA, MATLAB, Multithreading, GPU Kernels.
