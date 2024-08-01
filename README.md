@@ -24,9 +24,10 @@
 - **Specialized Techniques**:
   1. **Classical Computer Vision**: Image Processing, Denoising, Camera Calibration, Pose Estimation, Feature Extractors and Matching (SIFT, SURF, ORB, Harris Corner Detector), Stereo Vision, Epipolar Geometry, Optical Flow, Depth Maps from Stereo, Depth Maps from Monocular.
   2. **Modern Computer Vision (Deep Learning)**: Object Classification, Detection, and Segmentation.
+  3. **Architectures**: Faster RCNN, YOLO, Detectron2, SSD, GAN
 
 ## Projects
-- [Enhancing Low Light Object Detection with Log RGB Image Pre-processing (PyTorch, Deep Learning)](https://github.com/ravina01/Enhancing-Low-Light-Object-Detection-with-Log-RGB-Image-Pre-processing)
+- [Enhancing Low Light Object Detection with Log RGB Image Pre-processing (PyTorch, Faster RCNN, Deep Learning)](https://github.com/ravina01/Enhancing-Low-Light-Object-Detection-with-Log-RGB-Image-Pre-processing)
 - [Computer Vision and Pattern Recognition (OpenCV, C++)](https://github.com/ravina01/Computer-Vision-and-Pattern-Recognition)
 - [Pytorch Deep Learning: Mini Food Vision App (PyTorch, Deep Learning)](https://github.com/ravina01/Pytorch_Deep_Learning)
 - [CS5335 Robotics Science and Systems (MATLAB, PyTorch, Deep Learning)](https://github.com/ravina01/CS5335-Robotics-Science-and-Systems)
