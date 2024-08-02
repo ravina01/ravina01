@@ -34,6 +34,8 @@
 - [Enhancing Low Light Object Detection with Log RGB Image Pre-processing (PyTorch, Faster RCNN, Deep Learning)](https://github.com/ravina01/Enhancing-Low-Light-Object-Detection-with-Log-RGB-Image-Pre-processing)
 - [Computer Vision and Pattern Recognition (OpenCV, C++)](https://github.com/ravina01/Computer-Vision-and-Pattern-Recognition)
 - [Pytorch Deep Learning: Mini Food Vision App (PyTorch, Deep Learning)](https://github.com/ravina01/Pytorch_Deep_Learning)
+- [Object Detection/ Segmentation using Detectron2] (https://github.com/ravina01/Detectron2/tree/main)
+- [Object Detection using PyTorch] (https://github.com/ravina01/Object-Detection-using-PyTorch/tree/main)
 - [CS5335 Robotics Science and Systems (MATLAB, PyTorch, Deep Learning)](https://github.com/ravina01/CS5335-Robotics-Science-and-Systems)
 - [Falcon 9 Rocket Landing with Reinforcement Learning (PyTorch, Deep Learning)](https://github.com/ravina01/SpaceX-Falcon9-rocket-landing-using-Reinforcement-Learning)
 - [Advanced Lane Detection: Classical Computer Vision (OpenCV, Python)](https://github.com/ravina01/LaneDetection)
