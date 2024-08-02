@@ -25,10 +25,10 @@
   1. **Classical Computer Vision**: Image Processing, Denoising, Camera Calibration, Pose Estimation, Feature Extractors and Matching (SIFT, SURF, ORB, Harris Corner Detector), Stereo Vision, Epipolar Geometry, Optical Flow, Depth Maps from Stereo, Depth Maps from Monocular.
   2. **Modern Computer Vision (Deep Learning)**: Object Classification, Detection, and Segmentation.
   3. **Architectures**:
-     3.1 Classification: ResNet, EfficientNet, VGG, InceptionNet
-     3.2 Detection : Faster RCNN, ROI Pooling, YOLO, Detectron2, SSD
-     3.3 Segmentation: U-Net, Mask RCNN.
-     3.4 GAN
+     - 3.1 Classification: ResNet, EfficientNet, VGG, InceptionNet
+     - 3.2 Detection : Faster RCNN, ROI Pooling, YOLO, Detectron2, SSD
+     - 3.3 Segmentation: U-Net, Mask RCNN.
+     - 3.4 GAN
 
 ## Projects
 - [Enhancing Low Light Object Detection with Log RGB Image Pre-processing (PyTorch, Faster RCNN, Deep Learning)](https://github.com/ravina01/Enhancing-Low-Light-Object-Detection-with-Log-RGB-Image-Pre-processing)
