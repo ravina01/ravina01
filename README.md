@@ -26,7 +26,7 @@
   2. **Modern Computer Vision (Deep Learning)**: Object Classification, Detection, and Segmentation.
   3. **Architectures**:
      - 3.1 Classification: ResNet, EfficientNet, VGG, InceptionNet
-     - 3.2 Detection : Faster RCNN, ROI Pooling, YOLO, Detectron2, SSD
+     - 3.2 Detection : Faster RCNN, ROI Pooling, Region Proposal Network, YOLO, Detectron2, SSD
      - 3.3 Segmentation: U-Net, Mask RCNN.
      - 3.4 GAN
 
