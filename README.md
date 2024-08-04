@@ -34,7 +34,7 @@
   5. **ISP Pipeline**:
       - 5.1 ISP Pipeline - Lens Shading Correction, Black Level Adjustment, Demosaicing, Denoisng, Color Correction Matrix (CCM), Gamma Correction, Contrast Enhancement
       - 5.2 3A - Auto Exposure, Auto White Balance, Auto Focus
-      - 5.3 Computational Photograpphhy - HDR Techniques
+      - 5.3 Computational Photograpphhy - HDR, ToneMapping Techniques
       - 5.4 Denosing Techniques - Non Local Means, 3D Block Matching, Gaussian Filter, Wavelet Transform etc
 
 
