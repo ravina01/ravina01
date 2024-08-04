@@ -16,6 +16,7 @@
 - 📫 How to reach me: [ravinalad96@gmail.com](mailto:ravinalad96@gmail.com)
 - 📍 Location: Boston, USA 🇺🇸 | Origin: India 🇮🇳
 - 🔥 Life Motto: What do we say to the God of Death? Not today.(Dracarys🐉)
+- 👩‍💻 Programmer Motto: If in doubt, Code it out!
 
 ## Skills
 - **Programming Languages**: C++ (C++14/17), Python, CUDA, MATLAB, Multithreading, GPU Kernels.
