@@ -27,16 +27,23 @@
   2. **Modern Computer Vision (Deep Learning)**: Object Classification, Detection, and Segmentation.
   3. **Zero to Mastery PyTorch**: Data Cleaning, Data Preparation, Parsing Annotations, Building model, Training Model, Making Predictions, Save and Load model's state dict, Deciding loss functions, Optimizers, Hyper parameter tuning, Evalution metrics etc.
   4. **Architectures**:
-     - 3.1 Classification: ResNet, EfficientNet, VGG, InceptionNet
-     - 3.2 Detection : Faster RCNN (Not for real time detection), ROI Pooling, Region Proposal Network, YOLO, Detectron2 (Not for real time detection), SSD
-     - 3.3 Segmentation: U-Net, Mask RCNN.
-     - 3.4 GAN
+     - 4.1 Classification: ResNet, EfficientNet, VGG, InceptionNet
+     - 4.2 Detection : Faster RCNN (Not for real time detection), ROI Pooling, Region Proposal Network, YOLO, Detectron2 (Not for real time detection), SSD
+     - 4.3 Segmentation: U-Net, Mask RCNN.
+     - 4.4 GAN
+ 5. **ISP Pipeline**:
+      - 5.1 ISP Pipeline - Lens Shading Correction, Black Level Adjustment, Demosaicing, Denoisng, Color Correction Matrix (CCM), Gamma Correction, Contrast Enhancement
+      - 5.2 3A - Auto Exposure, Auto White Balance, Auto Focus
+      - 5.3 Computational Photograpphhy - HDR Techniques
+      - 5.4 Denosing Techniques - Non Local Means, 3D Block Matching, Gaussian Filter, Wavelet Transform etc
+
 
 ## Projects
 - [Enhancing Low Light Object Detection with Log RGB Image Pre-processing (PyTorch, Faster RCNN, Deep Learning)](https://github.com/ravina01/Enhancing-Low-Light-Object-Detection-with-Log-RGB-Image-Pre-processing)
 - [Computer Vision and Pattern Recognition (OpenCV, C++)](https://github.com/ravina01/Computer-Vision-and-Pattern-Recognition)
 - [Pytorch Deep Learning: Mini Food Vision App (PyTorch, Deep Learning)](https://github.com/ravina01/Pytorch_Deep_Learning)
 - [Object Detection/ Segmentation using Detectron2](https://github.com/ravina01/Detectron2/tree/main)
+- [ISP Pipeline + 3A + Computational Photography](https://github.com/ravina01/ISP-Pipeline-Computational-Photography)
 - [Object Detection using PyTorch RCNN and SSD(Single Shot Detection)](https://github.com/ravina01/Object-Detection-using-PyTorch/tree/main)
 - [CS5335 Robotics Science and Systems (MATLAB, PyTorch, Deep Learning)](https://github.com/ravina01/CS5335-Robotics-Science-and-Systems)
 - [Falcon 9 Rocket Landing with Reinforcement Learning (PyTorch, Deep Learning)](https://github.com/ravina01/SpaceX-Falcon9-rocket-landing-using-Reinforcement-Learning)
