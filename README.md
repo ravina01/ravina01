@@ -9,7 +9,7 @@
 - 👧 I'm a Roboticist (M.Sc. in Robotics (Computer Science)) with a passion for vision-based applications.
 - 🔭 I’m currently working on building a Food Vision App, Object Detection, and Segmentation.
 - 🌱 I’m currently learning more about Deep Learning concepts in detail, GenAI
-- 💬 Ask me about classical or modern computer vision techniques.
+- 💬 Ask me about classical or modern computer vision techniques + How to write Modular codes in Pytorch.
 - 🏙️ About me: Self-taught CV/ML Engineer | City dweller who loves to travel and enjoy local cuisines | Biker 🚴 | Loves kayaking: 🛶 | Loves cooking 👩‍🍳
 - ⚡ Fun fact: I jumped off the sky on my Birthday! (This Girl is Adventurous) [Watch it here](https://youtu.be/0fE-8fkhm9Y?si=0sktlQhNJBjcdOhK)
 - ✍️ Technical blog writer: [Medium](https://medium.com/@ravina.lad01)
