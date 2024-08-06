@@ -26,10 +26,15 @@
   1. **Classical Computer Vision**: Image Processing, Denoising, Camera Calibration, Pose Estimation, Feature Extractors and Matching (SIFT, SURF, ORB, Harris Corner Detector), Stereo Vision, Epipolar Geometry, Optical Flow, Depth Maps from Stereo, Depth Maps from Monocular.
   2. **Modern Computer Vision (Deep Learning)**: Object Classification, Detection, and Segmentation.
   3. **Zero to Mastery PyTorch**:
-     - 1. Data Preparation - Data Cleaning, Parsing Annotations,
-     - 2. Model Preparation - Building model, Training Model, Making Predictions, Save and Load model's state dict, Deciding loss functions, Optimizers, Hyper-parameter tuning, Evalution metrics,
-     - 3.  Making it Modular - can convert cell code to scripts making it modular in nature with docstrings
-     - 4.  Experiment Tracking using Tensorboard 
+     - 3.1 **Data Preparation** - Data Cleaning, Data Augmentation, Parsing Annotations, and Data Loading (Data Loaders + Transforms)
+     - 3.2 **Model Preparation** -
+         - Stage 1: Building Models, Training Models, Loss functions, Optimizers, Hyper-parameter Tuning
+         - Stage 2: Making Predictions, Evalution metrics
+         - Stage 3: Save and Load model's state dict
+     - 3.3  Making it Modular - can convert cell code to scripts making it modular in nature with docstrings, Documentation, Organizing Code
+     - 3.4  Experiment Tracking using Tensorboard - Logging training metrics, visualizing model architecture, and tracking experiments over time.
+     - 3.5 **Transfer Learning** - Leveraging pre-trained models and fine-tuning them for Computer Vision tasks.
+     - 3.5 Additional Basic Concepts - Dealing with tensors, Autograd, GPU Utilization (model training and inference), Handling Overfitting, Batch Normalization
   5. **Architectures**:
      - 4.1 Classification: ResNet, EfficientNet, VGG, InceptionNet
      - 4.2 Detection : Faster RCNN (Not for real time detection), ROI Pooling, Region Proposal Network, YOLO, Detectron2 (Not for real time detection), SSD
