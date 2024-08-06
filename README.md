@@ -26,7 +26,7 @@
   1. **Classical Computer Vision**: Image Processing, Denoising, Camera Calibration, Pose Estimation, Feature Extractors and Matching (SIFT, SURF, ORB, Harris Corner Detector), Stereo Vision, Epipolar Geometry, Optical Flow, Depth Maps from Stereo, Depth Maps from Monocular.
   2. **Modern Computer Vision (Deep Learning)**: Object Classification, Detection, and Segmentation.
   3. **Zero to Mastery PyTorch**:
-     - 3.1 **Data Preparation** - Data Cleaning, Data Augmentation, Parsing Annotations, and Data Loading (Data Loaders + Transforms)
+     - 3.1 **Data Preparation** - Data Cleaning, Data Augmentation, Parsing Annotations, and Data Loading (Data Loaders + Transforms(Manual + automatic))
      - 3.2 **Model Preparation** -
          - Stage 1: Building Models, Training Models, Loss functions, Optimizers, Hyper-parameter Tuning
          - Stage 2: Making Predictions, Evalution metrics
