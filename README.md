@@ -25,7 +25,7 @@
 - **Specialized Techniques**:
   1. **Classical Computer Vision**: Image Processing, Denoising, Camera Calibration, Pose Estimation, Feature Extractors and Matching (SIFT, SURF, ORB, Harris Corner Detector), Stereo Vision, Epipolar Geometry, Optical Flow, Depth Maps from Stereo, Depth Maps from Monocular.
   2. **Modern Computer Vision (Deep Learning)**: Object Classification, Detection, and Segmentation.
-  3. **Zero to Mastery PyTorch**: Data Cleaning, Data Preparation, Parsing Annotations, Building model, Training Model, Making Predictions, Save and Load model's state dict, Deciding loss functions, Optimizers, Hyper parameter tuning, Evalution metrics, can convert cell code to scripts making it modular in nature with docstrings etc.
+  3. **Zero to Mastery PyTorch**: Data Cleaning, Data Preparation, Parsing Annotations, Building model, Training Model, Making Predictions, Save and Load model's state dict, Deciding loss functions, Optimizers, Hyper-parameter tuning, Evalution metrics, can convert cell code to scripts making it modular in nature with docstrings, Experiment Tracking using Tensorboard etc.
   4. **Architectures**:
      - 4.1 Classification: ResNet, EfficientNet, VGG, InceptionNet
      - 4.2 Detection : Faster RCNN (Not for real time detection), ROI Pooling, Region Proposal Network, YOLO, Detectron2 (Not for real time detection), SSD
