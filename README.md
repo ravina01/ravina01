@@ -7,7 +7,7 @@
 ![Ai_girl (1)](https://github.com/user-attachments/assets/1f29f4a5-2c80-46b6-a882-981c29df2bb0)
 
 - 👧 I'm a Roboticist (M.Sc. in Robotics (Computer Science)) with a passion for vision-based applications.
-- 🔭 I’m currently working on building a Food Vision App, Object Detection, and Segmentation.
+- 🔭 I’m currently working on building a Food Vision App, Object Detection, and Segmentation. I specialize in building foundational models as well as implementing from scratch.
 - 🌱 I’m currently learning more about Deep Learning concepts in detail, GenAI
 - 💬 Ask me about classical or modern computer vision techniques + How to write Modular codes in Pytorch.
 - 🏙️ About me: Self-taught CV/ML Engineer | City dweller who loves to travel and enjoy local cuisines | Biker 🚴 | Loves kayaking: 🛶 | Loves cooking 👩‍🍳
