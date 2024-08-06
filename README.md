@@ -33,7 +33,7 @@
          - Stage 3: Save and Load model's state dict
      - 3.3  Making it Modular - can convert cell code to scripts making it modular in nature with docstrings, Documentation, Organizing Code
      - 3.4  Experiment Tracking using Tensorboard - Logging training metrics, visualizing model architecture, and tracking experiments over time.
-     - 3.5 **Transfer Learning** - Leveraging pre-trained models and fine-tuning them for Computer Vision tasks.
+     - 3.5 **Transfer Learning** - Leveraging pre-trained models and fine-tuning them for Computer Vision tasks. Can find best trade-offs between highest accuracy and lowest Parameters for selecting the foundational model.
      - 3.5 Additional Basic Concepts - Dealing with tensors, Autograd, GPU Utilization (model training and inference), Handling Overfitting, Batch Normalization
   5. **Architectures**:
      - 4.1 Classification: ResNet, EfficientNet, VGG, InceptionNet
