@@ -25,13 +25,17 @@
 - **Specialized Techniques**:
   1. **Classical Computer Vision**: Image Processing, Denoising, Camera Calibration, Pose Estimation, Feature Extractors and Matching (SIFT, SURF, ORB, Harris Corner Detector), Stereo Vision, Epipolar Geometry, Optical Flow, Depth Maps from Stereo, Depth Maps from Monocular.
   2. **Modern Computer Vision (Deep Learning)**: Object Classification, Detection, and Segmentation.
-  3. **Zero to Mastery PyTorch**: Data Cleaning, Data Preparation, Parsing Annotations, Building model, Training Model, Making Predictions, Save and Load model's state dict, Deciding loss functions, Optimizers, Hyper-parameter tuning, Evalution metrics, can convert cell code to scripts making it modular in nature with docstrings, Experiment Tracking using Tensorboard etc.
-  4. **Architectures**:
+  3. **Zero to Mastery PyTorch**:
+     - 1. Data Preparation - Data Cleaning, Parsing Annotations,
+     - 2. Model Preparation - Building model, Training Model, Making Predictions, Save and Load model's state dict, Deciding loss functions, Optimizers, Hyper-parameter tuning, Evalution metrics,
+     - 3.  Making it Modular - can convert cell code to scripts making it modular in nature with docstrings
+     - 4.  Experiment Tracking using Tensorboard 
+  5. **Architectures**:
      - 4.1 Classification: ResNet, EfficientNet, VGG, InceptionNet
      - 4.2 Detection : Faster RCNN (Not for real time detection), ROI Pooling, Region Proposal Network, YOLO, Detectron2 (Not for real time detection), SSD
      - 4.3 Segmentation: U-Net, Mask RCNN.
      - 4.4 GAN
-  5. **ISP Pipeline**:
+  6. **ISP Pipeline**:
       - 5.1 ISP Pipeline - Lens Shading Correction, Black Level Adjustment, Demosaicing, Denoisng, Color Correction Matrix (CCM), Gamma Correction, Contrast Enhancement
       - 5.2 3A - Auto Exposure, Auto White Balance, Auto Focus
       - 5.3 Computational Photograpphhy - HDR, ToneMapping Techniques
