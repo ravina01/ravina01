@@ -19,7 +19,7 @@
 - 👩‍💻 Programmer Motto: If in doubt, Code it out!
 
 ## Skills
-- **Programming Languages**: C++ (C++14/17), Python, CUDA, MATLAB, Multithreading, GPU Kernels.
+- **Programming Languages**: C++ (C++14/17), Python, CUDA, MATLAB, Multithreading and Concurrancy, GPU Kernels.
 - **Frameworks**: PyTorch, TensorFlow, PyTorch TensorBoard,  OpenCV, PIL, Albumentations, NumPy, Matplotlib, TensorRT.
 - **Tools**: Git, Docker, ROS, Linux, JIRA.
 - **Specialized Techniques**:
