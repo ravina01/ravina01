@@ -59,7 +59,9 @@
 - [Advanced Lane Detection: Classical Computer Vision (OpenCV, Python)](https://github.com/ravina01/LaneDetection)
 - [Breast Cancer Detection (TensorFlow, Deep Learning)](https://github.com/ravina01/Breast-Cancer-Detection)
 - [Robot Sensing and Navigation (ROS, Python, MATLAB)](https://github.com/ravina01/Robot-Sensing-and-Navigation)
+- [Deep Learning Concepts](https://github.com/ravina01/Deep-Learning-Concepts)
 - [C++: Basic to Advanced, LEETCODE](https://github.com/ravina01/CPP)
+- [Multithreading and Concurrancy in CPP](https://github.com/ravina01/Multithreading-Concurrancy-in-CPP)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ravina-lad01/)
