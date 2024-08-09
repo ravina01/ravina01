@@ -51,7 +51,7 @@
 - [Enhancing Low Light Object Detection with Log RGB Image Pre-processing (PyTorch, Faster RCNN, Deep Learning)](https://github.com/ravina01/Enhancing-Low-Light-Object-Detection-with-Log-RGB-Image-Pre-processing)
 - [Computer Vision and Pattern Recognition (OpenCV, C++)](https://github.com/ravina01/Computer-Vision-and-Pattern-Recognition)
 - [Pytorch Deep Learning: Mini Food Vision App (PyTorch, Deep Learning)](https://github.com/ravina01/Pytorch_Deep_Learning)
-- [Object Detection/ Segmentation using Detectron2](https://github.com/ravina01/Detectron2/tree/main)
+- [Fine tuning Detectron2 for instance segmentation using custom data]([https://github.com/ravina01/Detectron2/](https://github.com/ravina01/Fine-tuning-Detectron2-for-instance-segmentation-using-custom-data)
 - [ISP Pipeline + 3A + Computational Photography](https://github.com/ravina01/ISP-Pipeline-Computational-Photography)
 - [Object Detection using PyTorch RCNN and SSD(Single Shot Detection)](https://github.com/ravina01/Object-Detection-using-PyTorch/tree/main)
 - [CS5335 Robotics Science and Systems (MATLAB, PyTorch, Deep Learning)](https://github.com/ravina01/CS5335-Robotics-Science-and-Systems)
