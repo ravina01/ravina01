@@ -67,3 +67,5 @@
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ravina-lad01/)
 - [GitHub](https://github.com/ravina01)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ravina01&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
