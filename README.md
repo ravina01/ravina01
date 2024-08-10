@@ -21,8 +21,7 @@
 ## Skills
 - **Programming Languages**: C++ (C++14/17), Python, CUDA, MATLAB, Multithreading and Concurrancy, GPU Kernels.
 - **Frameworks**: PyTorch, TensorFlow, PyTorch TensorBoard,  OpenCV, PIL, Albumentations, NumPy, Matplotlib, TensorRT.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 - **Tools**: Git, Docker, ROS, Linux, JIRA.
 - **Specialized Techniques**:
   1. **Classical Computer Vision**: Image Processing, Denoising, Camera Calibration, Pose Estimation, Feature Extractors and Matching (SIFT, SURF, ORB, Harris Corner Detector), Stereo Vision, Epipolar Geometry, Optical Flow, Depth Maps from Stereo, Depth Maps from Monocular.
