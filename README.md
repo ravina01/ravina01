@@ -69,3 +69,5 @@
 - [GitHub](https://github.com/ravina01)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ravina01&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravina01&layout=compact&theme=vision-friendly-dark)](https://github.com/ravina01/github-readme-stats)
