@@ -20,7 +20,7 @@
 
 ## Skills
 - **Programming Languages**: C++ (C++14/17), Python, CUDA, MATLAB, Multithreading and Concurrancy, GPU Kernels.
-- **Frameworks**: PyTorch, TensorFlow, PyTorch TensorBoard,  OpenCV, PIL, Albumentations, NumPy, Matplotlib, TensorRT.
+- **Frameworks**: PyTorch, TensorFlow, PyTorch TensorBoard, OpenCV, PIL, Albumentations, NumPy, Matplotlib, TensorRT.
 - **Tools**: Git, Docker, ROS, Linux, JIRA.
 - **Specialized Techniques**:
   1. **Classical Computer Vision**: Image Processing, Denoising, Camera Calibration, Pose Estimation, Feature Extractors and Matching (SIFT, SURF, ORB, Harris Corner Detector), Stereo Vision, Epipolar Geometry, Optical Flow, Depth Maps from Stereo, Depth Maps from Monocular.
@@ -43,7 +43,7 @@
   6. **ISP Pipeline**:
       - 5.1 ISP Pipeline - Lens Shading Correction, Black Level Adjustment, Demosaicing, Denoisng, Color Correction Matrix (CCM), Gamma Correction, Contrast Enhancement
       - 5.2 3A - Auto Exposure, Auto White Balance, Auto Focus
-      - 5.3 Computational Photograpphhy - HDR, ToneMapping Techniques
+      - 5.3 Computational Photography - HDR, ToneMapping Techniques
       - 5.4 Denosing Techniques - Non Local Means, 3D Block Matching, Gaussian Filter, Wavelet Transform etc
 
 
