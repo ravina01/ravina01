@@ -7,6 +7,8 @@
 <img width="1024" height="1024" alt="Gemini_Generated_Image_4kgdp14kgdp14kgd (1)" src="https://github.com/user-attachments/assets/66ac321f-f1ae-4125-a082-a99c6e718fe6" />
 
 
+
+
 - 👧 I'm a Roboticist (M.Sc. in Robotics (Computer Science)) with a passion for vision-based applications.
 - 🔭 I’m currently working on adding features in real-time video pipeline for sports broadcast industry.
 - 🌱 I’m currently learning more ways to optimize the cuda on device.
