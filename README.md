@@ -4,7 +4,8 @@
 **ravina01/ravina01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Ai_girl (1)](https://github.com/user-attachments/assets/1f29f4a5-2c80-46b6-a882-981c29df2bb0)
+<img width="1024" height="1024" alt="Gemini_Generated_Image_4kgdp14kgdp14kgd (1)" src="https://github.com/user-attachments/assets/66ac321f-f1ae-4125-a082-a99c6e718fe6" />
+
 
 - 👧 I'm a Roboticist (M.Sc. in Robotics (Computer Science)) with a passion for vision-based applications.
 - 🔭 I’m currently working on adding features in real-time video pipeline for sports broadcast industry.
