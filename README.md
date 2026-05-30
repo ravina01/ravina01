@@ -6,7 +6,7 @@ Currently focused on GPU acceleration, inference optimization, and large-scale d
 
 <br>
 
-⚡ ⚡ Outside of engineering, I enjoy adventure, travel, and occasionally jumping out of airplanes[Watch it here](https://youtu.be/0fE-8fkhm9Y?si=0sktlQhNJBjcdOhK)
+⚡ Outside of engineering, I enjoy adventure, travel, and occasionally jumping out of airplanes[Watch it here](https://youtu.be/0fE-8fkhm9Y?si=0sktlQhNJBjcdOhK)
 
 
 
