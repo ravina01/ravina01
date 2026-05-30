@@ -3,8 +3,9 @@
 <br>
 Software Engineer with an M.S. in Robotics (Computer Science), passionate about building AI, Computer Vision, and high-performance systems.
 Currently focused on GPU acceleration, inference optimization, and large-scale distributed infrastructure.
-⚡ Fun fact: I jumped off the sky on my birthday! [Watch it here](https://youtu.be/0fE-8fkhm9Y?si=0sktlQhNJBjcdOhK)  
 <br>
+⚡ Fun fact: I jumped off the sky on my birthday! [Watch it here](https://youtu.be/0fE-8fkhm9Y?si=0sktlQhNJBjcdOhK)
+
 
 
 ## Connect with Me
